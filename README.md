@@ -12,7 +12,7 @@ Para el desarrollo se utilizó el dataset IBM HR Analytics Employee Attrition, c
 
 ## Dashboard publicado en Streamlit Community Cloud
 
-[Acceder al dashboard interactivo](https://tarea4-rotacion-laboral.streamlit.app/)
+Acceder al dashboard interactivo (https://tarea4-rotacion-laboral.streamlit.app/)
 
 ## Hallazgos principales del EDA
 
